@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jackson MBELLA (@jackson-mb)
-- 📫 How to reach me: On tweeter @JacksonNils
 - 👀 I’m interested in Data analytics/science and Business intelligence
+- 📫 How to reach me: On tweeter @JacksonNils
 <!--
 **jackson-mb/jackson-mb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
